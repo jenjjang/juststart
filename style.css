@@ -32,7 +32,7 @@ nav {
 	nav li{
 		display: inline-block;
 		position: relative;
-		margin: 0 15px;
+		margin: 0 5px;
 	}
 	
 	nav ul li a {
